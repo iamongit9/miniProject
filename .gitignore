@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Optional, exclude logs and runtime data
+logs/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Optional, exclude build output
+dist/
+out/
+.build/
