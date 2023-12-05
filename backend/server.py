@@ -14,7 +14,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USERNAME'] = 'vellankiindeevar@gmail.com'
-app.config['MAIL_PASSWORD'] = 'ahlypuehnsatgmod'
+app.config['MAIL_PASSWORD'] = 'ahlypuehnsatgmod' # should not be pushed here 
 app.config['MAIL_USE_TLS'] = True
 
 mail = Mail(app)
